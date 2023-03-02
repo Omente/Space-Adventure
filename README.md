@@ -1,2 +1,2 @@
 # Space-Adventure
-This game is based on old space shooters games.
+Space adventure is based on old space shooters games.
